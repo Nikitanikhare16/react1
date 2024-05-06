@@ -1,0 +1,22 @@
+.maincontainer{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    height: 300px;
+    width: 300px;
+    border: 2px solid blanchedalmond;
+    
+}
+.maincontainerLogout{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    height: 300px;
+    width: 300px;
+    border: 2px solid red;
+    
+}
